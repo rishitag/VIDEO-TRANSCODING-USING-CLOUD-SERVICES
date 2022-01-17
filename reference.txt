@@ -1,5 +1,5 @@
-`UNDERSTANDNG TRANSCODING`
+```UNDERSTANDNG TRANSCODING```
 https://studio.support.brightcove.com/general/best-practices-video-creating-transcoding-and-uploading-workflow.html
 
-`AWS ELASTIC TRANSCODER VIDEO TUTORIAL`
+```AWS ELASTIC TRANSCODER VIDEO TUTORIAL```
 https://www.youtube.com/watch?v=wSYHdt1TJVQ
